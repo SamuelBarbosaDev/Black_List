@@ -1,0 +1,6 @@
+# Lista Negra do Pi-hole
+# [facebook.com]
+0.0.0.0 facebook.com
+
+# [twitter.com]
+0.0.0.0 twitter.com
